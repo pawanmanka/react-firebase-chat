@@ -1,0 +1,14 @@
+.main-layout .profile {
+    display: initial;
+}
+
+.main-layout {
+    overflow-y: hidden;
+}  
+.ui.active.transition.visible.dimmer {
+    height: 100vh;
+}
+textarea.form-control:focus {
+    background-color: transparent;
+    color: white;
+}

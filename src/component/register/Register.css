@@ -1,0 +1,10 @@
+.invalid-error div input
+{
+    border-color: #ffb0b0;
+    background: #fedfdf;
+}
+.error
+{
+    display: flex;
+    color: red;
+}
